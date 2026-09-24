@@ -1,0 +1,6 @@
+{
+  "name": "MJ Hair Salon",
+  "description": "Boutique hair salon in Round Rock, TX led by master stylist Malvin Soto. Specializing in balayage, precision cuts, silk press, and restorative treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
