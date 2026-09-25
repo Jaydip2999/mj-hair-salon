@@ -136,6 +136,8 @@ export default function BookingModal({ isOpen, onClose, preselectedService, refe
   // Scoped enhancement: Implement on notice */}
   // Scoped enhancement: Implement on notice */}
   // Scoped enhancement: Implement on notice */}
+  // Scoped enhancement: Implement on notice */}
+
 
 
 
