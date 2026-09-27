@@ -1,3 +1,4 @@
+import { validateBookingForm, validatePhone } from "../../../utils/validation";
 import React, { useState, useEffect } from 'react';
 import {
   X, LayoutDashboard, Calendar, Clock, Scissors, Users,
