@@ -1,0 +1,23 @@
+:root {
+  --salon-gold: #b88a57;
+  --salon-gold-hover: #a07442;
+  --salon-gold-light: #fbf6f0;
+  --salon-charcoal: #18181b;
+  --salon-border: #e4e4e7;
+}
+
+.salon-gold-btn {
+  background-color: var(--salon-gold);
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.salon-gold-btn:hover {
+  background-color: var(--salon-gold-hover);
+}
+
+.salon-surface-luxury {
+  background: white;
+  border: 1px solid var(--salon-border);
+  box-shadow: 0 4px 20px -2px rgba(184, 138, 87, 0.08);
+}
