@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Development & Tasks
 
@@ -8,3 +9,6 @@
 npm install
 npm run dev
 ```
+=======
+# bharat-car-dealers
+>>>>>>> origin/main
