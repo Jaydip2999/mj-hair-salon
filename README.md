@@ -1,14 +1,14 @@
-<<<<<<< HEAD
+# MJ Hair Salon
 
-## Development & Tasks
+Modern booking portal and showcase website for MJ Hair Salon & Spa.
 
-- **Update project README documentation**: Scoped application improvement.
+## Features
+- Interactive service catalog with pricing and duration
+- Online appointment booking system
+- Stylist portfolios and customer reviews
 
-### Project Setup
+## Development
 ```bash
 npm install
 npm run dev
 ```
-=======
-# bharat-car-dealers
->>>>>>> origin/main
